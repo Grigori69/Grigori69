@@ -12,10 +12,11 @@ The name Grigori is a reference and also a way of showing my admiration for Grig
  - 😄 Pronouns: HE/HIM or THE GOOD LORD OF DARK SIDE (I'm just kidding)
 - ⚡ Fun fact: I love fishing, My dream is win in the lotery so I can go Fishing everyday hahaha also I'm a huge fan of NFL (Faithfull here)... So big fan that I even played here In Brazil in a small league. In the soccer I'm Corinthians born and raised.
 
-x
+
+<!--v      x
 **Grigori69/Grigori69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###Here are some ideas to get you started:
 
 
 - 
@@ -35,7 +36,6 @@ Here are some ideas to get you started:
 🗄️ Databases and cloud hosting
 GitHub Pages  MongoDB MySQL PostgreSQL 
 
-💻 Software and tools
+####💻 Software and tools
 Audacity Brave Codepen Git Jupyter OBS Studio Postman Stack Overflow Visual Studio Code
-<!--
 -->
